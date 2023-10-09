@@ -1,0 +1,50 @@
+[
+  {
+    "cep": "39401-164",
+    "logradouro": "Rua Edgar Pereira",
+    "complemento": "",
+    "bairro": "Santos Reis",
+    "localidade": "Montes Claros",
+    "uf": "MG",
+    "ibge": "3143302",
+    "gia": "",
+    "ddd": "38",
+    "siafi": "4865"
+  },
+  {
+    "cep": "39400-164",
+    "logradouro": "Rua Maria Fagundes de Souza",
+    "complemento": "",
+    "bairro": "João Gordo",
+    "localidade": "Montes Claros",
+    "uf": "MG",
+    "ibge": "3143302",
+    "gia": "",
+    "ddd": "38",
+    "siafi": "4865"
+  },
+  {
+    "cep": "32340-510",
+    "logradouro": "Rua Bragança",
+    "complemento": "",
+    "bairro": "Santa Cruz Industrial",
+    "localidade": "Contagem",
+    "uf": "MG",
+    "ibge": "3118601",
+    "gia": "",
+    "ddd": "31",
+    "siafi": "4371"
+  },
+  {
+    "cep": "39400-111",
+    "logradouro": "Rua Coronel Spyer",
+    "complemento": "",
+    "bairro": "Centro",
+    "localidade": "Montes Claros",
+    "uf": "MG",
+    "ibge": "3143302",
+    "gia": "",
+    "ddd": "38",
+    "siafi": "4865"
+  }
+]
